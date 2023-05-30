@@ -1,3 +1,6 @@
-a=12
+a=113
 
+new="kesa"
 print(a)
+print(new)
+
